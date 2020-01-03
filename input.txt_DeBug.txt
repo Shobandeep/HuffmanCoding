@@ -1,0 +1,545 @@
+
+ 46
+ 46
+  229
+, 23
+. 12
+1 2
+3 1
+6 1
+8 1
+9 1
+A 4
+B 2
+C 3
+F 1
+G 3
+I 2
+L 2
+N 3
+P 2
+S 2
+T 4
+U 2
+W 3
+a 136
+b 25
+c 120
+d 55
+e 183
+f 31
+g 30
+h 62
+i 79
+j 2
+k 7
+l 46
+m 34
+n 94
+o 84
+p 14
+q 2
+r 77
+s 47
+t 113
+u 20
+v 19
+w 25
+x 2
+y 18
+z 2
+listHead->("dummy", 0, "F")->("F", 1, "9")->("9", 1, "8")->("8", 1, "6")->("6", 1, "3")->("3", 1, "z")->("z", 2, "x")->("x", 2, "q")->("q", 2, "j")->("j", 2, "U")->("U", 2, "S")->("S", 2, "P")->("P", 2, "L")->("L", 2, "I")->("I", 2, "B")->("B", 2, "1")->("1", 2, "W")->("W", 3, "N")->("N", 3, "G")->("G", 3, "C")->("C", 3, "T")->("T", 4, "A")->("A", 4, "k")->("k", 7, ".")->(".", 12, "p")->("p", 14, "y")->("y", 18, "v")->("v", 19, "u")->("u", 20, ",")->(",", 23, "w")->("w", 25, "b")->("b", 25, "g")->("g", 30, "f")->("f", 31, "m")->("m", 34, "l")->("l", 46, "")->("", 46, "
+")->("
+", 46, "s")->("s", 47, "d")->("d", 55, "h")->("h", 62, "r")->("r", 77, "i")->("i", 79, "o")->("o", 84, "n")->("n", 94, "t")->("t", 113, "c")->("c", 120, "a")->("a", 136, "e")->("e", 183, " ")->(" ", 229, NULL)-> NULL
+listHead->("dummy", 0, "8")->("8", 1, "6")->("6", 1, "3")->("3", 1, "F9")->("F9", 2, "z")->("z", 2, "x")->("x", 2, "q")->("q", 2, "j")->("j", 2, "U")->("U", 2, "S")->("S", 2, "P")->("P", 2, "L")->("L", 2, "I")->("I", 2, "B")->("B", 2, "1")->("1", 2, "W")->("W", 3, "N")->("N", 3, "G")->("G", 3, "C")->("C", 3, "T")->("T", 4, "A")->("A", 4, "k")->("k", 7, ".")->(".", 12, "p")->("p", 14, "y")->("y", 18, "v")->("v", 19, "u")->("u", 20, ",")->(",", 23, "w")->("w", 25, "b")->("b", 25, "g")->("g", 30, "f")->("f", 31, "m")->("m", 34, "l")->("l", 46, "")->("", 46, "
+")->("
+", 46, "s")->("s", 47, "d")->("d", 55, "h")->("h", 62, "r")->("r", 77, "i")->("i", 79, "o")->("o", 84, "n")->("n", 94, "t")->("t", 113, "c")->("c", 120, "a")->("a", 136, "e")->("e", 183, " ")->(" ", 229, NULL)-> NULL
+listHead->("dummy", 0, "3")->("3", 1, "86")->("86", 2, "F9")->("F9", 2, "z")->("z", 2, "x")->("x", 2, "q")->("q", 2, "j")->("j", 2, "U")->("U", 2, "S")->("S", 2, "P")->("P", 2, "L")->("L", 2, "I")->("I", 2, "B")->("B", 2, "1")->("1", 2, "W")->("W", 3, "N")->("N", 3, "G")->("G", 3, "C")->("C", 3, "T")->("T", 4, "A")->("A", 4, "k")->("k", 7, ".")->(".", 12, "p")->("p", 14, "y")->("y", 18, "v")->("v", 19, "u")->("u", 20, ",")->(",", 23, "w")->("w", 25, "b")->("b", 25, "g")->("g", 30, "f")->("f", 31, "m")->("m", 34, "l")->("l", 46, "")->("", 46, "
+")->("
+", 46, "s")->("s", 47, "d")->("d", 55, "h")->("h", 62, "r")->("r", 77, "i")->("i", 79, "o")->("o", 84, "n")->("n", 94, "t")->("t", 113, "c")->("c", 120, "a")->("a", 136, "e")->("e", 183, " ")->(" ", 229, NULL)-> NULL
+listHead->("dummy", 0, "F9")->("F9", 2, "z")->("z", 2, "x")->("x", 2, "q")->("q", 2, "j")->("j", 2, "U")->("U", 2, "S")->("S", 2, "P")->("P", 2, "L")->("L", 2, "I")->("I", 2, "B")->("B", 2, "1")->("1", 2, "386")->("386", 3, "W")->("W", 3, "N")->("N", 3, "G")->("G", 3, "C")->("C", 3, "T")->("T", 4, "A")->("A", 4, "k")->("k", 7, ".")->(".", 12, "p")->("p", 14, "y")->("y", 18, "v")->("v", 19, "u")->("u", 20, ",")->(",", 23, "w")->("w", 25, "b")->("b", 25, "g")->("g", 30, "f")->("f", 31, "m")->("m", 34, "l")->("l", 46, "")->("", 46, "
+")->("
+", 46, "s")->("s", 47, "d")->("d", 55, "h")->("h", 62, "r")->("r", 77, "i")->("i", 79, "o")->("o", 84, "n")->("n", 94, "t")->("t", 113, "c")->("c", 120, "a")->("a", 136, "e")->("e", 183, " ")->(" ", 229, NULL)-> NULL
+listHead->("dummy", 0, "x")->("x", 2, "q")->("q", 2, "j")->("j", 2, "U")->("U", 2, "S")->("S", 2, "P")->("P", 2, "L")->("L", 2, "I")->("I", 2, "B")->("B", 2, "1")->("1", 2, "386")->("386", 3, "W")->("W", 3, "N")->("N", 3, "G")->("G", 3, "C")->("C", 3, "F9z")->("F9z", 4, "T")->("T", 4, "A")->("A", 4, "k")->("k", 7, ".")->(".", 12, "p")->("p", 14, "y")->("y", 18, "v")->("v", 19, "u")->("u", 20, ",")->(",", 23, "w")->("w", 25, "b")->("b", 25, "g")->("g", 30, "f")->("f", 31, "m")->("m", 34, "l")->("l", 46, "")->("", 46, "
+")->("
+", 46, "s")->("s", 47, "d")->("d", 55, "h")->("h", 62, "r")->("r", 77, "i")->("i", 79, "o")->("o", 84, "n")->("n", 94, "t")->("t", 113, "c")->("c", 120, "a")->("a", 136, "e")->("e", 183, " ")->(" ", 229, NULL)-> NULL
+listHead->("dummy", 0, "j")->("j", 2, "U")->("U", 2, "S")->("S", 2, "P")->("P", 2, "L")->("L", 2, "I")->("I", 2, "B")->("B", 2, "1")->("1", 2, "386")->("386", 3, "W")->("W", 3, "N")->("N", 3, "G")->("G", 3, "C")->("C", 3, "xq")->("xq", 4, "F9z")->("F9z", 4, "T")->("T", 4, "A")->("A", 4, "k")->("k", 7, ".")->(".", 12, "p")->("p", 14, "y")->("y", 18, "v")->("v", 19, "u")->("u", 20, ",")->(",", 23, "w")->("w", 25, "b")->("b", 25, "g")->("g", 30, "f")->("f", 31, "m")->("m", 34, "l")->("l", 46, "")->("", 46, "
+")->("
+", 46, "s")->("s", 47, "d")->("d", 55, "h")->("h", 62, "r")->("r", 77, "i")->("i", 79, "o")->("o", 84, "n")->("n", 94, "t")->("t", 113, "c")->("c", 120, "a")->("a", 136, "e")->("e", 183, " ")->(" ", 229, NULL)-> NULL
+listHead->("dummy", 0, "S")->("S", 2, "P")->("P", 2, "L")->("L", 2, "I")->("I", 2, "B")->("B", 2, "1")->("1", 2, "386")->("386", 3, "W")->("W", 3, "N")->("N", 3, "G")->("G", 3, "C")->("C", 3, "jU")->("jU", 4, "xq")->("xq", 4, "F9z")->("F9z", 4, "T")->("T", 4, "A")->("A", 4, "k")->("k", 7, ".")->(".", 12, "p")->("p", 14, "y")->("y", 18, "v")->("v", 19, "u")->("u", 20, ",")->(",", 23, "w")->("w", 25, "b")->("b", 25, "g")->("g", 30, "f")->("f", 31, "m")->("m", 34, "l")->("l", 46, "")->("", 46, "
+")->("
+", 46, "s")->("s", 47, "d")->("d", 55, "h")->("h", 62, "r")->("r", 77, "i")->("i", 79, "o")->("o", 84, "n")->("n", 94, "t")->("t", 113, "c")->("c", 120, "a")->("a", 136, "e")->("e", 183, " ")->(" ", 229, NULL)-> NULL
+listHead->("dummy", 0, "L")->("L", 2, "I")->("I", 2, "B")->("B", 2, "1")->("1", 2, "386")->("386", 3, "W")->("W", 3, "N")->("N", 3, "G")->("G", 3, "C")->("C", 3, "SP")->("SP", 4, "jU")->("jU", 4, "xq")->("xq", 4, "F9z")->("F9z", 4, "T")->("T", 4, "A")->("A", 4, "k")->("k", 7, ".")->(".", 12, "p")->("p", 14, "y")->("y", 18, "v")->("v", 19, "u")->("u", 20, ",")->(",", 23, "w")->("w", 25, "b")->("b", 25, "g")->("g", 30, "f")->("f", 31, "m")->("m", 34, "l")->("l", 46, "")->("", 46, "
+")->("
+", 46, "s")->("s", 47, "d")->("d", 55, "h")->("h", 62, "r")->("r", 77, "i")->("i", 79, "o")->("o", 84, "n")->("n", 94, "t")->("t", 113, "c")->("c", 120, "a")->("a", 136, "e")->("e", 183, " ")->(" ", 229, NULL)-> NULL
+listHead->("dummy", 0, "B")->("B", 2, "1")->("1", 2, "386")->("386", 3, "W")->("W", 3, "N")->("N", 3, "G")->("G", 3, "C")->("C", 3, "LI")->("LI", 4, "SP")->("SP", 4, "jU")->("jU", 4, "xq")->("xq", 4, "F9z")->("F9z", 4, "T")->("T", 4, "A")->("A", 4, "k")->("k", 7, ".")->(".", 12, "p")->("p", 14, "y")->("y", 18, "v")->("v", 19, "u")->("u", 20, ",")->(",", 23, "w")->("w", 25, "b")->("b", 25, "g")->("g", 30, "f")->("f", 31, "m")->("m", 34, "l")->("l", 46, "")->("", 46, "
+")->("
+", 46, "s")->("s", 47, "d")->("d", 55, "h")->("h", 62, "r")->("r", 77, "i")->("i", 79, "o")->("o", 84, "n")->("n", 94, "t")->("t", 113, "c")->("c", 120, "a")->("a", 136, "e")->("e", 183, " ")->(" ", 229, NULL)-> NULL
+listHead->("dummy", 0, "386")->("386", 3, "W")->("W", 3, "N")->("N", 3, "G")->("G", 3, "C")->("C", 3, "B1")->("B1", 4, "LI")->("LI", 4, "SP")->("SP", 4, "jU")->("jU", 4, "xq")->("xq", 4, "F9z")->("F9z", 4, "T")->("T", 4, "A")->("A", 4, "k")->("k", 7, ".")->(".", 12, "p")->("p", 14, "y")->("y", 18, "v")->("v", 19, "u")->("u", 20, ",")->(",", 23, "w")->("w", 25, "b")->("b", 25, "g")->("g", 30, "f")->("f", 31, "m")->("m", 34, "l")->("l", 46, "")->("", 46, "
+")->("
+", 46, "s")->("s", 47, "d")->("d", 55, "h")->("h", 62, "r")->("r", 77, "i")->("i", 79, "o")->("o", 84, "n")->("n", 94, "t")->("t", 113, "c")->("c", 120, "a")->("a", 136, "e")->("e", 183, " ")->(" ", 229, NULL)-> NULL
+listHead->("dummy", 0, "N")->("N", 3, "G")->("G", 3, "C")->("C", 3, "B1")->("B1", 4, "LI")->("LI", 4, "SP")->("SP", 4, "jU")->("jU", 4, "xq")->("xq", 4, "F9z")->("F9z", 4, "T")->("T", 4, "A")->("A", 4, "386W")->("386W", 6, "k")->("k", 7, ".")->(".", 12, "p")->("p", 14, "y")->("y", 18, "v")->("v", 19, "u")->("u", 20, ",")->(",", 23, "w")->("w", 25, "b")->("b", 25, "g")->("g", 30, "f")->("f", 31, "m")->("m", 34, "l")->("l", 46, "")->("", 46, "
+")->("
+", 46, "s")->("s", 47, "d")->("d", 55, "h")->("h", 62, "r")->("r", 77, "i")->("i", 79, "o")->("o", 84, "n")->("n", 94, "t")->("t", 113, "c")->("c", 120, "a")->("a", 136, "e")->("e", 183, " ")->(" ", 229, NULL)-> NULL
+listHead->("dummy", 0, "C")->("C", 3, "B1")->("B1", 4, "LI")->("LI", 4, "SP")->("SP", 4, "jU")->("jU", 4, "xq")->("xq", 4, "F9z")->("F9z", 4, "T")->("T", 4, "A")->("A", 4, "NG")->("NG", 6, "386W")->("386W", 6, "k")->("k", 7, ".")->(".", 12, "p")->("p", 14, "y")->("y", 18, "v")->("v", 19, "u")->("u", 20, ",")->(",", 23, "w")->("w", 25, "b")->("b", 25, "g")->("g", 30, "f")->("f", 31, "m")->("m", 34, "l")->("l", 46, "")->("", 46, "
+")->("
+", 46, "s")->("s", 47, "d")->("d", 55, "h")->("h", 62, "r")->("r", 77, "i")->("i", 79, "o")->("o", 84, "n")->("n", 94, "t")->("t", 113, "c")->("c", 120, "a")->("a", 136, "e")->("e", 183, " ")->(" ", 229, NULL)-> NULL
+listHead->("dummy", 0, "LI")->("LI", 4, "SP")->("SP", 4, "jU")->("jU", 4, "xq")->("xq", 4, "F9z")->("F9z", 4, "T")->("T", 4, "A")->("A", 4, "NG")->("NG", 6, "386W")->("386W", 6, "CB1")->("CB1", 7, "k")->("k", 7, ".")->(".", 12, "p")->("p", 14, "y")->("y", 18, "v")->("v", 19, "u")->("u", 20, ",")->(",", 23, "w")->("w", 25, "b")->("b", 25, "g")->("g", 30, "f")->("f", 31, "m")->("m", 34, "l")->("l", 46, "")->("", 46, "
+")->("
+", 46, "s")->("s", 47, "d")->("d", 55, "h")->("h", 62, "r")->("r", 77, "i")->("i", 79, "o")->("o", 84, "n")->("n", 94, "t")->("t", 113, "c")->("c", 120, "a")->("a", 136, "e")->("e", 183, " ")->(" ", 229, NULL)-> NULL
+listHead->("dummy", 0, "jU")->("jU", 4, "xq")->("xq", 4, "F9z")->("F9z", 4, "T")->("T", 4, "A")->("A", 4, "NG")->("NG", 6, "386W")->("386W", 6, "CB1")->("CB1", 7, "k")->("k", 7, "LISP")->("LISP", 8, ".")->(".", 12, "p")->("p", 14, "y")->("y", 18, "v")->("v", 19, "u")->("u", 20, ",")->(",", 23, "w")->("w", 25, "b")->("b", 25, "g")->("g", 30, "f")->("f", 31, "m")->("m", 34, "l")->("l", 46, "")->("", 46, "
+")->("
+", 46, "s")->("s", 47, "d")->("d", 55, "h")->("h", 62, "r")->("r", 77, "i")->("i", 79, "o")->("o", 84, "n")->("n", 94, "t")->("t", 113, "c")->("c", 120, "a")->("a", 136, "e")->("e", 183, " ")->(" ", 229, NULL)-> NULL
+listHead->("dummy", 0, "F9z")->("F9z", 4, "T")->("T", 4, "A")->("A", 4, "NG")->("NG", 6, "386W")->("386W", 6, "CB1")->("CB1", 7, "k")->("k", 7, "jUxq")->("jUxq", 8, "LISP")->("LISP", 8, ".")->(".", 12, "p")->("p", 14, "y")->("y", 18, "v")->("v", 19, "u")->("u", 20, ",")->(",", 23, "w")->("w", 25, "b")->("b", 25, "g")->("g", 30, "f")->("f", 31, "m")->("m", 34, "l")->("l", 46, "")->("", 46, "
+")->("
+", 46, "s")->("s", 47, "d")->("d", 55, "h")->("h", 62, "r")->("r", 77, "i")->("i", 79, "o")->("o", 84, "n")->("n", 94, "t")->("t", 113, "c")->("c", 120, "a")->("a", 136, "e")->("e", 183, " ")->(" ", 229, NULL)-> NULL
+listHead->("dummy", 0, "A")->("A", 4, "NG")->("NG", 6, "386W")->("386W", 6, "CB1")->("CB1", 7, "k")->("k", 7, "F9zT")->("F9zT", 8, "jUxq")->("jUxq", 8, "LISP")->("LISP", 8, ".")->(".", 12, "p")->("p", 14, "y")->("y", 18, "v")->("v", 19, "u")->("u", 20, ",")->(",", 23, "w")->("w", 25, "b")->("b", 25, "g")->("g", 30, "f")->("f", 31, "m")->("m", 34, "l")->("l", 46, "")->("", 46, "
+")->("
+", 46, "s")->("s", 47, "d")->("d", 55, "h")->("h", 62, "r")->("r", 77, "i")->("i", 79, "o")->("o", 84, "n")->("n", 94, "t")->("t", 113, "c")->("c", 120, "a")->("a", 136, "e")->("e", 183, " ")->(" ", 229, NULL)-> NULL
+listHead->("dummy", 0, "386W")->("386W", 6, "CB1")->("CB1", 7, "k")->("k", 7, "F9zT")->("F9zT", 8, "jUxq")->("jUxq", 8, "LISP")->("LISP", 8, "ANG")->("ANG", 10, ".")->(".", 12, "p")->("p", 14, "y")->("y", 18, "v")->("v", 19, "u")->("u", 20, ",")->(",", 23, "w")->("w", 25, "b")->("b", 25, "g")->("g", 30, "f")->("f", 31, "m")->("m", 34, "l")->("l", 46, "")->("", 46, "
+")->("
+", 46, "s")->("s", 47, "d")->("d", 55, "h")->("h", 62, "r")->("r", 77, "i")->("i", 79, "o")->("o", 84, "n")->("n", 94, "t")->("t", 113, "c")->("c", 120, "a")->("a", 136, "e")->("e", 183, " ")->(" ", 229, NULL)-> NULL
+listHead->("dummy", 0, "k")->("k", 7, "F9zT")->("F9zT", 8, "jUxq")->("jUxq", 8, "LISP")->("LISP", 8, "ANG")->("ANG", 10, ".")->(".", 12, "386WCB1")->("386WCB1", 13, "p")->("p", 14, "y")->("y", 18, "v")->("v", 19, "u")->("u", 20, ",")->(",", 23, "w")->("w", 25, "b")->("b", 25, "g")->("g", 30, "f")->("f", 31, "m")->("m", 34, "l")->("l", 46, "")->("", 46, "
+")->("
+", 46, "s")->("s", 47, "d")->("d", 55, "h")->("h", 62, "r")->("r", 77, "i")->("i", 79, "o")->("o", 84, "n")->("n", 94, "t")->("t", 113, "c")->("c", 120, "a")->("a", 136, "e")->("e", 183, " ")->(" ", 229, NULL)-> NULL
+listHead->("dummy", 0, "jUxq")->("jUxq", 8, "LISP")->("LISP", 8, "ANG")->("ANG", 10, ".")->(".", 12, "386WCB1")->("386WCB1", 13, "p")->("p", 14, "kF9zT")->("kF9zT", 15, "y")->("y", 18, "v")->("v", 19, "u")->("u", 20, ",")->(",", 23, "w")->("w", 25, "b")->("b", 25, "g")->("g", 30, "f")->("f", 31, "m")->("m", 34, "l")->("l", 46, "")->("", 46, "
+")->("
+", 46, "s")->("s", 47, "d")->("d", 55, "h")->("h", 62, "r")->("r", 77, "i")->("i", 79, "o")->("o", 84, "n")->("n", 94, "t")->("t", 113, "c")->("c", 120, "a")->("a", 136, "e")->("e", 183, " ")->(" ", 229, NULL)-> NULL
+listHead->("dummy", 0, "ANG")->("ANG", 10, ".")->(".", 12, "386WCB1")->("386WCB1", 13, "p")->("p", 14, "kF9zT")->("kF9zT", 15, "jUxqLISP")->("jUxqLISP", 16, "y")->("y", 18, "v")->("v", 19, "u")->("u", 20, ",")->(",", 23, "w")->("w", 25, "b")->("b", 25, "g")->("g", 30, "f")->("f", 31, "m")->("m", 34, "l")->("l", 46, "")->("", 46, "
+")->("
+", 46, "s")->("s", 47, "d")->("d", 55, "h")->("h", 62, "r")->("r", 77, "i")->("i", 79, "o")->("o", 84, "n")->("n", 94, "t")->("t", 113, "c")->("c", 120, "a")->("a", 136, "e")->("e", 183, " ")->(" ", 229, NULL)-> NULL
+listHead->("dummy", 0, "386WCB1")->("386WCB1", 13, "p")->("p", 14, "kF9zT")->("kF9zT", 15, "jUxqLISP")->("jUxqLISP", 16, "y")->("y", 18, "v")->("v", 19, "u")->("u", 20, "ANG.")->("ANG.", 22, ",")->(",", 23, "w")->("w", 25, "b")->("b", 25, "g")->("g", 30, "f")->("f", 31, "m")->("m", 34, "l")->("l", 46, "")->("", 46, "
+")->("
+", 46, "s")->("s", 47, "d")->("d", 55, "h")->("h", 62, "r")->("r", 77, "i")->("i", 79, "o")->("o", 84, "n")->("n", 94, "t")->("t", 113, "c")->("c", 120, "a")->("a", 136, "e")->("e", 183, " ")->(" ", 229, NULL)-> NULL
+listHead->("dummy", 0, "kF9zT")->("kF9zT", 15, "jUxqLISP")->("jUxqLISP", 16, "y")->("y", 18, "v")->("v", 19, "u")->("u", 20, "ANG.")->("ANG.", 22, ",")->(",", 23, "w")->("w", 25, "b")->("b", 25, "386WCB1p")->("386WCB1p", 27, "g")->("g", 30, "f")->("f", 31, "m")->("m", 34, "l")->("l", 46, "")->("", 46, "
+")->("
+", 46, "s")->("s", 47, "d")->("d", 55, "h")->("h", 62, "r")->("r", 77, "i")->("i", 79, "o")->("o", 84, "n")->("n", 94, "t")->("t", 113, "c")->("c", 120, "a")->("a", 136, "e")->("e", 183, " ")->(" ", 229, NULL)-> NULL
+listHead->("dummy", 0, "y")->("y", 18, "v")->("v", 19, "u")->("u", 20, "ANG.")->("ANG.", 22, ",")->(",", 23, "w")->("w", 25, "b")->("b", 25, "386WCB1p")->("386WCB1p", 27, "g")->("g", 30, "kF9zTjUxqLISP")->("kF9zTjUxqLISP", 31, "f")->("f", 31, "m")->("m", 34, "l")->("l", 46, "")->("", 46, "
+")->("
+", 46, "s")->("s", 47, "d")->("d", 55, "h")->("h", 62, "r")->("r", 77, "i")->("i", 79, "o")->("o", 84, "n")->("n", 94, "t")->("t", 113, "c")->("c", 120, "a")->("a", 136, "e")->("e", 183, " ")->(" ", 229, NULL)-> NULL
+listHead->("dummy", 0, "u")->("u", 20, "ANG.")->("ANG.", 22, ",")->(",", 23, "w")->("w", 25, "b")->("b", 25, "386WCB1p")->("386WCB1p", 27, "g")->("g", 30, "kF9zTjUxqLISP")->("kF9zTjUxqLISP", 31, "f")->("f", 31, "m")->("m", 34, "yv")->("yv", 37, "l")->("l", 46, "")->("", 46, "
+")->("
+", 46, "s")->("s", 47, "d")->("d", 55, "h")->("h", 62, "r")->("r", 77, "i")->("i", 79, "o")->("o", 84, "n")->("n", 94, "t")->("t", 113, "c")->("c", 120, "a")->("a", 136, "e")->("e", 183, " ")->(" ", 229, NULL)-> NULL
+listHead->("dummy", 0, ",")->(",", 23, "w")->("w", 25, "b")->("b", 25, "386WCB1p")->("386WCB1p", 27, "g")->("g", 30, "kF9zTjUxqLISP")->("kF9zTjUxqLISP", 31, "f")->("f", 31, "m")->("m", 34, "yv")->("yv", 37, "uANG.")->("uANG.", 42, "l")->("l", 46, "")->("", 46, "
+")->("
+", 46, "s")->("s", 47, "d")->("d", 55, "h")->("h", 62, "r")->("r", 77, "i")->("i", 79, "o")->("o", 84, "n")->("n", 94, "t")->("t", 113, "c")->("c", 120, "a")->("a", 136, "e")->("e", 183, " ")->(" ", 229, NULL)-> NULL
+listHead->("dummy", 0, "b")->("b", 25, "386WCB1p")->("386WCB1p", 27, "g")->("g", 30, "kF9zTjUxqLISP")->("kF9zTjUxqLISP", 31, "f")->("f", 31, "m")->("m", 34, "yv")->("yv", 37, "uANG.")->("uANG.", 42, "l")->("l", 46, "")->("", 46, "
+")->("
+", 46, "s")->("s", 47, ",w")->(",w", 48, "d")->("d", 55, "h")->("h", 62, "r")->("r", 77, "i")->("i", 79, "o")->("o", 84, "n")->("n", 94, "t")->("t", 113, "c")->("c", 120, "a")->("a", 136, "e")->("e", 183, " ")->(" ", 229, NULL)-> NULL
+listHead->("dummy", 0, "g")->("g", 30, "kF9zTjUxqLISP")->("kF9zTjUxqLISP", 31, "f")->("f", 31, "m")->("m", 34, "yv")->("yv", 37, "uANG.")->("uANG.", 42, "l")->("l", 46, "")->("", 46, "
+")->("
+", 46, "s")->("s", 47, ",w")->(",w", 48, "b386WCB1p")->("b386WCB1p", 52, "d")->("d", 55, "h")->("h", 62, "r")->("r", 77, "i")->("i", 79, "o")->("o", 84, "n")->("n", 94, "t")->("t", 113, "c")->("c", 120, "a")->("a", 136, "e")->("e", 183, " ")->(" ", 229, NULL)-> NULL
+listHead->("dummy", 0, "f")->("f", 31, "m")->("m", 34, "yv")->("yv", 37, "uANG.")->("uANG.", 42, "l")->("l", 46, "")->("", 46, "
+")->("
+", 46, "s")->("s", 47, ",w")->(",w", 48, "b386WCB1p")->("b386WCB1p", 52, "d")->("d", 55, "gkF9zTjUxqLISP")->("gkF9zTjUxqLISP", 61, "h")->("h", 62, "r")->("r", 77, "i")->("i", 79, "o")->("o", 84, "n")->("n", 94, "t")->("t", 113, "c")->("c", 120, "a")->("a", 136, "e")->("e", 183, " ")->(" ", 229, NULL)-> NULL
+listHead->("dummy", 0, "yv")->("yv", 37, "uANG.")->("uANG.", 42, "l")->("l", 46, "")->("", 46, "
+")->("
+", 46, "s")->("s", 47, ",w")->(",w", 48, "b386WCB1p")->("b386WCB1p", 52, "d")->("d", 55, "gkF9zTjUxqLISP")->("gkF9zTjUxqLISP", 61, "h")->("h", 62, "fm")->("fm", 65, "r")->("r", 77, "i")->("i", 79, "o")->("o", 84, "n")->("n", 94, "t")->("t", 113, "c")->("c", 120, "a")->("a", 136, "e")->("e", 183, " ")->(" ", 229, NULL)-> NULL
+listHead->("dummy", 0, "l")->("l", 46, "")->("", 46, "
+")->("
+", 46, "s")->("s", 47, ",w")->(",w", 48, "b386WCB1p")->("b386WCB1p", 52, "d")->("d", 55, "gkF9zTjUxqLISP")->("gkF9zTjUxqLISP", 61, "h")->("h", 62, "fm")->("fm", 65, "r")->("r", 77, "yvuANG.")->("yvuANG.", 79, "i")->("i", 79, "o")->("o", 84, "n")->("n", 94, "t")->("t", 113, "c")->("c", 120, "a")->("a", 136, "e")->("e", 183, " ")->(" ", 229, NULL)-> NULL
+listHead->("dummy", 0, "
+")->("
+", 46, "s")->("s", 47, ",w")->(",w", 48, "b386WCB1p")->("b386WCB1p", 52, "d")->("d", 55, "gkF9zTjUxqLISP")->("gkF9zTjUxqLISP", 61, "h")->("h", 62, "fm")->("fm", 65, "r")->("r", 77, "yvuANG.")->("yvuANG.", 79, "i")->("i", 79, "o")->("o", 84, "l")->("l", 92, "n")->("n", 94, "t")->("t", 113, "c")->("c", 120, "a")->("a", 136, "e")->("e", 183, " ")->(" ", 229, NULL)-> NULL
+listHead->("dummy", 0, ",w")->(",w", 48, "b386WCB1p")->("b386WCB1p", 52, "d")->("d", 55, "gkF9zTjUxqLISP")->("gkF9zTjUxqLISP", 61, "h")->("h", 62, "fm")->("fm", 65, "r")->("r", 77, "yvuANG.")->("yvuANG.", 79, "i")->("i", 79, "o")->("o", 84, "l")->("l", 92, "
+s")->("
+s", 93, "n")->("n", 94, "t")->("t", 113, "c")->("c", 120, "a")->("a", 136, "e")->("e", 183, " ")->(" ", 229, NULL)-> NULL
+listHead->("dummy", 0, "d")->("d", 55, "gkF9zTjUxqLISP")->("gkF9zTjUxqLISP", 61, "h")->("h", 62, "fm")->("fm", 65, "r")->("r", 77, "yvuANG.")->("yvuANG.", 79, "i")->("i", 79, "o")->("o", 84, "l")->("l", 92, "
+s")->("
+s", 93, "n")->("n", 94, ",wb386WCB1p")->(",wb386WCB1p", 100, "t")->("t", 113, "c")->("c", 120, "a")->("a", 136, "e")->("e", 183, " ")->(" ", 229, NULL)-> NULL
+listHead->("dummy", 0, "h")->("h", 62, "fm")->("fm", 65, "r")->("r", 77, "yvuANG.")->("yvuANG.", 79, "i")->("i", 79, "o")->("o", 84, "l")->("l", 92, "
+s")->("
+s", 93, "n")->("n", 94, ",wb386WCB1p")->(",wb386WCB1p", 100, "t")->("t", 113, "dgkF9zTjUxqLISP")->("dgkF9zTjUxqLISP", 116, "c")->("c", 120, "a")->("a", 136, "e")->("e", 183, " ")->(" ", 229, NULL)-> NULL
+listHead->("dummy", 0, "r")->("r", 77, "yvuANG.")->("yvuANG.", 79, "i")->("i", 79, "o")->("o", 84, "l")->("l", 92, "
+s")->("
+s", 93, "n")->("n", 94, ",wb386WCB1p")->(",wb386WCB1p", 100, "t")->("t", 113, "dgkF9zTjUxqLISP")->("dgkF9zTjUxqLISP", 116, "c")->("c", 120, "hfm")->("hfm", 127, "a")->("a", 136, "e")->("e", 183, " ")->(" ", 229, NULL)-> NULL
+listHead->("dummy", 0, "i")->("i", 79, "o")->("o", 84, "l")->("l", 92, "
+s")->("
+s", 93, "n")->("n", 94, ",wb386WCB1p")->(",wb386WCB1p", 100, "t")->("t", 113, "dgkF9zTjUxqLISP")->("dgkF9zTjUxqLISP", 116, "c")->("c", 120, "hfm")->("hfm", 127, "a")->("a", 136, "ryvuANG.")->("ryvuANG.", 156, "e")->("e", 183, " ")->(" ", 229, NULL)-> NULL
+listHead->("dummy", 0, "l")->("l", 92, "
+s")->("
+s", 93, "n")->("n", 94, ",wb386WCB1p")->(",wb386WCB1p", 100, "t")->("t", 113, "dgkF9zTjUxqLISP")->("dgkF9zTjUxqLISP", 116, "c")->("c", 120, "hfm")->("hfm", 127, "a")->("a", 136, "ryvuANG.")->("ryvuANG.", 156, "io")->("io", 163, "e")->("e", 183, " ")->(" ", 229, NULL)-> NULL
+listHead->("dummy", 0, "n")->("n", 94, ",wb386WCB1p")->(",wb386WCB1p", 100, "t")->("t", 113, "dgkF9zTjUxqLISP")->("dgkF9zTjUxqLISP", 116, "c")->("c", 120, "hfm")->("hfm", 127, "a")->("a", 136, "ryvuANG.")->("ryvuANG.", 156, "io")->("io", 163, "e")->("e", 183, "l
+s")->("l
+s", 185, " ")->(" ", 229, NULL)-> NULL
+listHead->("dummy", 0, "t")->("t", 113, "dgkF9zTjUxqLISP")->("dgkF9zTjUxqLISP", 116, "c")->("c", 120, "hfm")->("hfm", 127, "a")->("a", 136, "ryvuANG.")->("ryvuANG.", 156, "io")->("io", 163, "e")->("e", 183, "l
+s")->("l
+s", 185, "n,wb386WCB1p")->("n,wb386WCB1p", 194, " ")->(" ", 229, NULL)-> NULL
+listHead->("dummy", 0, "c")->("c", 120, "hfm")->("hfm", 127, "a")->("a", 136, "ryvuANG.")->("ryvuANG.", 156, "io")->("io", 163, "e")->("e", 183, "l
+s")->("l
+s", 185, "n,wb386WCB1p")->("n,wb386WCB1p", 194, "tdgkF9zTjUxqLISP")->("tdgkF9zTjUxqLISP", 229, " ")->(" ", 229, NULL)-> NULL
+listHead->("dummy", 0, "a")->("a", 136, "ryvuANG.")->("ryvuANG.", 156, "io")->("io", 163, "e")->("e", 183, "l
+s")->("l
+s", 185, "n,wb386WCB1p")->("n,wb386WCB1p", 194, "tdgkF9zTjUxqLISP")->("tdgkF9zTjUxqLISP", 229, " ")->(" ", 229, "chfm")->("chfm", 247, NULL)-> NULL
+listHead->("dummy", 0, "io")->("io", 163, "e")->("e", 183, "l
+s")->("l
+s", 185, "n,wb386WCB1p")->("n,wb386WCB1p", 194, "tdgkF9zTjUxqLISP")->("tdgkF9zTjUxqLISP", 229, " ")->(" ", 229, "chfm")->("chfm", 247, "aryvuANG.")->("aryvuANG.", 292, NULL)-> NULL
+listHead->("dummy", 0, "l
+s")->("l
+s", 185, "n,wb386WCB1p")->("n,wb386WCB1p", 194, "tdgkF9zTjUxqLISP")->("tdgkF9zTjUxqLISP", 229, " ")->(" ", 229, "chfm")->("chfm", 247, "aryvuANG.")->("aryvuANG.", 292, "ioe")->("ioe", 346, NULL)-> NULL
+listHead->("dummy", 0, "tdgkF9zTjUxqLISP")->("tdgkF9zTjUxqLISP", 229, " ")->(" ", 229, "chfm")->("chfm", 247, "aryvuANG.")->("aryvuANG.", 292, "ioe")->("ioe", 346, "l
+sn,wb386WCB1p")->("l
+sn,wb386WCB1p", 379, NULL)-> NULL
+listHead->("dummy", 0, "chfm")->("chfm", 247, "aryvuANG.")->("aryvuANG.", 292, "ioe")->("ioe", 346, "l
+sn,wb386WCB1p")->("l
+sn,wb386WCB1p", 379, "tdgkF9zTjUxqLISP ")->("tdgkF9zTjUxqLISP ", 458, NULL)-> NULL
+listHead->("dummy", 0, "ioe")->("ioe", 346, "l
+sn,wb386WCB1p")->("l
+sn,wb386WCB1p", 379, "tdgkF9zTjUxqLISP ")->("tdgkF9zTjUxqLISP ", 458, "chfmaryvuANG.")->("chfmaryvuANG.", 539, NULL)-> NULL
+listHead->("dummy", 0, "tdgkF9zTjUxqLISP ")->("tdgkF9zTjUxqLISP ", 458, "chfmaryvuANG.")->("chfmaryvuANG.", 539, "ioel
+sn,wb386WCB1p")->("ioel
+sn,wb386WCB1p", 725, NULL)-> NULL
+listHead->("dummy", 0, "ioel
+sn,wb386WCB1p")->("ioel
+sn,wb386WCB1p", 725, "tdgkF9zTjUxqLISP chfmaryvuANG.")->("tdgkF9zTjUxqLISP chfmaryvuANG.", 997, NULL)-> NULL
+listHead->("dummy", 0, "ioel
+sn,wb386WCB1ptdgkF9zTjUxqLISP chfmaryvuANG.")->("ioel
+sn,wb386WCB1ptdgkF9zTjUxqLISP chfmaryvuANG.", 1722, NULL)-> NULL
+
+preOrder Traversal:
+("ioel
+sn,wb386WCB1ptdgkF9zTjUxqLISP chfmaryvuANG.", 1722, next: "NULL", left: "ioel
+sn,wb386WCB1p", right: "tdgkF9zTjUxqLISP chfmaryvuANG.")
+("ioel
+sn,wb386WCB1p", 725, next: "tdgkF9zTjUxqLISP chfmaryvuANG.", left: "ioe", right: "l
+sn,wb386WCB1p")
+("ioe", 346, next: "l
+sn,wb386WCB1p", left: "io", right: "e")
+("io", 163, next: "e", left: "i", right: "o")
+("i", 79, next: "o", left: "NULL", right: "NULL")
+("o", 84, next: "l", left: "NULL", right: "NULL")
+("e", 183, next: "l
+s", left: "NULL", right: "NULL")
+("l
+sn,wb386WCB1p", 379, next: "tdgkF9zTjUxqLISP ", left: "l
+s", right: "n,wb386WCB1p")
+("l
+s", 185, next: "n,wb386WCB1p", left: "l", right: "
+s")
+("l", 92, next: "
+s", left: "l", right: "")
+("l", 46, next: "", left: "NULL", right: "NULL")
+("", 46, next: "
+", left: "NULL", right: "NULL")
+("
+s", 93, next: "n", left: "
+", right: "s")
+("
+", 46, next: "s", left: "NULL", right: "NULL")
+("s", 47, next: ",w", left: "NULL", right: "NULL")
+("n,wb386WCB1p", 194, next: "tdgkF9zTjUxqLISP", left: "n", right: ",wb386WCB1p")
+("n", 94, next: ",wb386WCB1p", left: "NULL", right: "NULL")
+(",wb386WCB1p", 100, next: "t", left: ",w", right: "b386WCB1p")
+(",w", 48, next: "b386WCB1p", left: ",", right: "w")
+(",", 23, next: "w", left: "NULL", right: "NULL")
+("w", 25, next: "b", left: "NULL", right: "NULL")
+("b386WCB1p", 52, next: "d", left: "b", right: "386WCB1p")
+("b", 25, next: "386WCB1p", left: "NULL", right: "NULL")
+("386WCB1p", 27, next: "g", left: "386WCB1", right: "p")
+("386WCB1", 13, next: "p", left: "386W", right: "CB1")
+("386W", 6, next: "CB1", left: "386", right: "W")
+("386", 3, next: "W", left: "3", right: "86")
+("3", 1, next: "86", left: "NULL", right: "NULL")
+("86", 2, next: "F9", left: "8", right: "6")
+("8", 1, next: "6", left: "NULL", right: "NULL")
+("6", 1, next: "3", left: "NULL", right: "NULL")
+("W", 3, next: "N", left: "NULL", right: "NULL")
+("CB1", 7, next: "k", left: "C", right: "B1")
+("C", 3, next: "B1", left: "NULL", right: "NULL")
+("B1", 4, next: "LI", left: "B", right: "1")
+("B", 2, next: "1", left: "NULL", right: "NULL")
+("1", 2, next: "386", left: "NULL", right: "NULL")
+("p", 14, next: "kF9zT", left: "NULL", right: "NULL")
+("tdgkF9zTjUxqLISP chfmaryvuANG.", 997, next: "ioel
+sn,wb386WCB1ptdgkF9zTjUxqLISP chfmaryvuANG.", left: "tdgkF9zTjUxqLISP ", right: "chfmaryvuANG.")
+("tdgkF9zTjUxqLISP ", 458, next: "chfmaryvuANG.", left: "tdgkF9zTjUxqLISP", right: " ")
+("tdgkF9zTjUxqLISP", 229, next: " ", left: "t", right: "dgkF9zTjUxqLISP")
+("t", 113, next: "dgkF9zTjUxqLISP", left: "NULL", right: "NULL")
+("dgkF9zTjUxqLISP", 116, next: "c", left: "d", right: "gkF9zTjUxqLISP")
+("d", 55, next: "gkF9zTjUxqLISP", left: "NULL", right: "NULL")
+("gkF9zTjUxqLISP", 61, next: "h", left: "g", right: "kF9zTjUxqLISP")
+("g", 30, next: "kF9zTjUxqLISP", left: "NULL", right: "NULL")
+("kF9zTjUxqLISP", 31, next: "f", left: "kF9zT", right: "jUxqLISP")
+("kF9zT", 15, next: "jUxqLISP", left: "k", right: "F9zT")
+("k", 7, next: "F9zT", left: "NULL", right: "NULL")
+("F9zT", 8, next: "jUxq", left: "F9z", right: "T")
+("F9z", 4, next: "T", left: "F9", right: "z")
+("F9", 2, next: "z", left: "F", right: "9")
+("F", 1, next: "9", left: "NULL", right: "NULL")
+("9", 1, next: "8", left: "NULL", right: "NULL")
+("z", 2, next: "x", left: "NULL", right: "NULL")
+("T", 4, next: "A", left: "NULL", right: "NULL")
+("jUxqLISP", 16, next: "y", left: "jUxq", right: "LISP")
+("jUxq", 8, next: "LISP", left: "jU", right: "xq")
+("jU", 4, next: "xq", left: "j", right: "U")
+("j", 2, next: "U", left: "NULL", right: "NULL")
+("U", 2, next: "S", left: "NULL", right: "NULL")
+("xq", 4, next: "F9z", left: "x", right: "q")
+("x", 2, next: "q", left: "NULL", right: "NULL")
+("q", 2, next: "j", left: "NULL", right: "NULL")
+("LISP", 8, next: "ANG", left: "LI", right: "SP")
+("LI", 4, next: "SP", left: "L", right: "I")
+("L", 2, next: "I", left: "NULL", right: "NULL")
+("I", 2, next: "B", left: "NULL", right: "NULL")
+("SP", 4, next: "jU", left: "S", right: "P")
+("S", 2, next: "P", left: "NULL", right: "NULL")
+("P", 2, next: "L", left: "NULL", right: "NULL")
+(" ", 229, next: "chfm", left: "NULL", right: "NULL")
+("chfmaryvuANG.", 539, next: "ioel
+sn,wb386WCB1p", left: "chfm", right: "aryvuANG.")
+("chfm", 247, next: "aryvuANG.", left: "c", right: "hfm")
+("c", 120, next: "hfm", left: "NULL", right: "NULL")
+("hfm", 127, next: "a", left: "h", right: "fm")
+("h", 62, next: "fm", left: "NULL", right: "NULL")
+("fm", 65, next: "r", left: "f", right: "m")
+("f", 31, next: "m", left: "NULL", right: "NULL")
+("m", 34, next: "yv", left: "NULL", right: "NULL")
+("aryvuANG.", 292, next: "ioe", left: "a", right: "ryvuANG.")
+("a", 136, next: "ryvuANG.", left: "NULL", right: "NULL")
+("ryvuANG.", 156, next: "io", left: "r", right: "yvuANG.")
+("r", 77, next: "yvuANG.", left: "NULL", right: "NULL")
+("yvuANG.", 79, next: "i", left: "yv", right: "uANG.")
+("yv", 37, next: "uANG.", left: "y", right: "v")
+("y", 18, next: "v", left: "NULL", right: "NULL")
+("v", 19, next: "u", left: "NULL", right: "NULL")
+("uANG.", 42, next: "l", left: "u", right: "ANG.")
+("u", 20, next: "ANG.", left: "NULL", right: "NULL")
+("ANG.", 22, next: ",", left: "ANG", right: ".")
+("ANG", 10, next: ".", left: "A", right: "NG")
+("A", 4, next: "NG", left: "NULL", right: "NULL")
+("NG", 6, next: "386W", left: "N", right: "G")
+("N", 3, next: "G", left: "NULL", right: "NULL")
+("G", 3, next: "C", left: "NULL", right: "NULL")
+(".", 12, next: "386WCB1", left: "NULL", right: "NULL")
+
+inOrder Traversal:
+("i", 79, next: "o", left: "NULL", right: "NULL")
+("io", 163, next: "e", left: "i", right: "o")
+("o", 84, next: "l", left: "NULL", right: "NULL")
+("ioe", 346, next: "l
+sn,wb386WCB1p", left: "io", right: "e")
+("e", 183, next: "l
+s", left: "NULL", right: "NULL")
+("ioel
+sn,wb386WCB1p", 725, next: "tdgkF9zTjUxqLISP chfmaryvuANG.", left: "ioe", right: "l
+sn,wb386WCB1p")
+("l", 46, next: "", left: "NULL", right: "NULL")
+("l", 92, next: "
+s", left: "l", right: "")
+("", 46, next: "
+", left: "NULL", right: "NULL")
+("l
+s", 185, next: "n,wb386WCB1p", left: "l", right: "
+s")
+("
+", 46, next: "s", left: "NULL", right: "NULL")
+("
+s", 93, next: "n", left: "
+", right: "s")
+("s", 47, next: ",w", left: "NULL", right: "NULL")
+("l
+sn,wb386WCB1p", 379, next: "tdgkF9zTjUxqLISP ", left: "l
+s", right: "n,wb386WCB1p")
+("n", 94, next: ",wb386WCB1p", left: "NULL", right: "NULL")
+("n,wb386WCB1p", 194, next: "tdgkF9zTjUxqLISP", left: "n", right: ",wb386WCB1p")
+(",", 23, next: "w", left: "NULL", right: "NULL")
+(",w", 48, next: "b386WCB1p", left: ",", right: "w")
+("w", 25, next: "b", left: "NULL", right: "NULL")
+(",wb386WCB1p", 100, next: "t", left: ",w", right: "b386WCB1p")
+("b", 25, next: "386WCB1p", left: "NULL", right: "NULL")
+("b386WCB1p", 52, next: "d", left: "b", right: "386WCB1p")
+("3", 1, next: "86", left: "NULL", right: "NULL")
+("386", 3, next: "W", left: "3", right: "86")
+("8", 1, next: "6", left: "NULL", right: "NULL")
+("86", 2, next: "F9", left: "8", right: "6")
+("6", 1, next: "3", left: "NULL", right: "NULL")
+("386W", 6, next: "CB1", left: "386", right: "W")
+("W", 3, next: "N", left: "NULL", right: "NULL")
+("386WCB1", 13, next: "p", left: "386W", right: "CB1")
+("C", 3, next: "B1", left: "NULL", right: "NULL")
+("CB1", 7, next: "k", left: "C", right: "B1")
+("B", 2, next: "1", left: "NULL", right: "NULL")
+("B1", 4, next: "LI", left: "B", right: "1")
+("1", 2, next: "386", left: "NULL", right: "NULL")
+("386WCB1p", 27, next: "g", left: "386WCB1", right: "p")
+("p", 14, next: "kF9zT", left: "NULL", right: "NULL")
+("ioel
+sn,wb386WCB1ptdgkF9zTjUxqLISP chfmaryvuANG.", 1722, next: "NULL", left: "ioel
+sn,wb386WCB1p", right: "tdgkF9zTjUxqLISP chfmaryvuANG.")
+("t", 113, next: "dgkF9zTjUxqLISP", left: "NULL", right: "NULL")
+("tdgkF9zTjUxqLISP", 229, next: " ", left: "t", right: "dgkF9zTjUxqLISP")
+("d", 55, next: "gkF9zTjUxqLISP", left: "NULL", right: "NULL")
+("dgkF9zTjUxqLISP", 116, next: "c", left: "d", right: "gkF9zTjUxqLISP")
+("g", 30, next: "kF9zTjUxqLISP", left: "NULL", right: "NULL")
+("gkF9zTjUxqLISP", 61, next: "h", left: "g", right: "kF9zTjUxqLISP")
+("k", 7, next: "F9zT", left: "NULL", right: "NULL")
+("kF9zT", 15, next: "jUxqLISP", left: "k", right: "F9zT")
+("F", 1, next: "9", left: "NULL", right: "NULL")
+("F9", 2, next: "z", left: "F", right: "9")
+("9", 1, next: "8", left: "NULL", right: "NULL")
+("F9z", 4, next: "T", left: "F9", right: "z")
+("z", 2, next: "x", left: "NULL", right: "NULL")
+("F9zT", 8, next: "jUxq", left: "F9z", right: "T")
+("T", 4, next: "A", left: "NULL", right: "NULL")
+("kF9zTjUxqLISP", 31, next: "f", left: "kF9zT", right: "jUxqLISP")
+("j", 2, next: "U", left: "NULL", right: "NULL")
+("jU", 4, next: "xq", left: "j", right: "U")
+("U", 2, next: "S", left: "NULL", right: "NULL")
+("jUxq", 8, next: "LISP", left: "jU", right: "xq")
+("x", 2, next: "q", left: "NULL", right: "NULL")
+("xq", 4, next: "F9z", left: "x", right: "q")
+("q", 2, next: "j", left: "NULL", right: "NULL")
+("jUxqLISP", 16, next: "y", left: "jUxq", right: "LISP")
+("L", 2, next: "I", left: "NULL", right: "NULL")
+("LI", 4, next: "SP", left: "L", right: "I")
+("I", 2, next: "B", left: "NULL", right: "NULL")
+("LISP", 8, next: "ANG", left: "LI", right: "SP")
+("S", 2, next: "P", left: "NULL", right: "NULL")
+("SP", 4, next: "jU", left: "S", right: "P")
+("P", 2, next: "L", left: "NULL", right: "NULL")
+("tdgkF9zTjUxqLISP ", 458, next: "chfmaryvuANG.", left: "tdgkF9zTjUxqLISP", right: " ")
+(" ", 229, next: "chfm", left: "NULL", right: "NULL")
+("tdgkF9zTjUxqLISP chfmaryvuANG.", 997, next: "ioel
+sn,wb386WCB1ptdgkF9zTjUxqLISP chfmaryvuANG.", left: "tdgkF9zTjUxqLISP ", right: "chfmaryvuANG.")
+("c", 120, next: "hfm", left: "NULL", right: "NULL")
+("chfm", 247, next: "aryvuANG.", left: "c", right: "hfm")
+("h", 62, next: "fm", left: "NULL", right: "NULL")
+("hfm", 127, next: "a", left: "h", right: "fm")
+("f", 31, next: "m", left: "NULL", right: "NULL")
+("fm", 65, next: "r", left: "f", right: "m")
+("m", 34, next: "yv", left: "NULL", right: "NULL")
+("chfmaryvuANG.", 539, next: "ioel
+sn,wb386WCB1p", left: "chfm", right: "aryvuANG.")
+("a", 136, next: "ryvuANG.", left: "NULL", right: "NULL")
+("aryvuANG.", 292, next: "ioe", left: "a", right: "ryvuANG.")
+("r", 77, next: "yvuANG.", left: "NULL", right: "NULL")
+("ryvuANG.", 156, next: "io", left: "r", right: "yvuANG.")
+("y", 18, next: "v", left: "NULL", right: "NULL")
+("yv", 37, next: "uANG.", left: "y", right: "v")
+("v", 19, next: "u", left: "NULL", right: "NULL")
+("yvuANG.", 79, next: "i", left: "yv", right: "uANG.")
+("u", 20, next: "ANG.", left: "NULL", right: "NULL")
+("uANG.", 42, next: "l", left: "u", right: "ANG.")
+("A", 4, next: "NG", left: "NULL", right: "NULL")
+("ANG", 10, next: ".", left: "A", right: "NG")
+("N", 3, next: "G", left: "NULL", right: "NULL")
+("NG", 6, next: "386W", left: "N", right: "G")
+("G", 3, next: "C", left: "NULL", right: "NULL")
+("ANG.", 22, next: ",", left: "ANG", right: ".")
+(".", 12, next: "386WCB1", left: "NULL", right: "NULL")
+
+postOrder Traversal:
+("i", 79, next: "o", left: "NULL", right: "NULL")
+("o", 84, next: "l", left: "NULL", right: "NULL")
+("io", 163, next: "e", left: "i", right: "o")
+("e", 183, next: "l
+s", left: "NULL", right: "NULL")
+("ioe", 346, next: "l
+sn,wb386WCB1p", left: "io", right: "e")
+("l", 46, next: "", left: "NULL", right: "NULL")
+("", 46, next: "
+", left: "NULL", right: "NULL")
+("l", 92, next: "
+s", left: "l", right: "")
+("
+", 46, next: "s", left: "NULL", right: "NULL")
+("s", 47, next: ",w", left: "NULL", right: "NULL")
+("
+s", 93, next: "n", left: "
+", right: "s")
+("l
+s", 185, next: "n,wb386WCB1p", left: "l", right: "
+s")
+("n", 94, next: ",wb386WCB1p", left: "NULL", right: "NULL")
+(",", 23, next: "w", left: "NULL", right: "NULL")
+("w", 25, next: "b", left: "NULL", right: "NULL")
+(",w", 48, next: "b386WCB1p", left: ",", right: "w")
+("b", 25, next: "386WCB1p", left: "NULL", right: "NULL")
+("3", 1, next: "86", left: "NULL", right: "NULL")
+("8", 1, next: "6", left: "NULL", right: "NULL")
+("6", 1, next: "3", left: "NULL", right: "NULL")
+("86", 2, next: "F9", left: "8", right: "6")
+("386", 3, next: "W", left: "3", right: "86")
+("W", 3, next: "N", left: "NULL", right: "NULL")
+("386W", 6, next: "CB1", left: "386", right: "W")
+("C", 3, next: "B1", left: "NULL", right: "NULL")
+("B", 2, next: "1", left: "NULL", right: "NULL")
+("1", 2, next: "386", left: "NULL", right: "NULL")
+("B1", 4, next: "LI", left: "B", right: "1")
+("CB1", 7, next: "k", left: "C", right: "B1")
+("386WCB1", 13, next: "p", left: "386W", right: "CB1")
+("p", 14, next: "kF9zT", left: "NULL", right: "NULL")
+("386WCB1p", 27, next: "g", left: "386WCB1", right: "p")
+("b386WCB1p", 52, next: "d", left: "b", right: "386WCB1p")
+(",wb386WCB1p", 100, next: "t", left: ",w", right: "b386WCB1p")
+("n,wb386WCB1p", 194, next: "tdgkF9zTjUxqLISP", left: "n", right: ",wb386WCB1p")
+("l
+sn,wb386WCB1p", 379, next: "tdgkF9zTjUxqLISP ", left: "l
+s", right: "n,wb386WCB1p")
+("ioel
+sn,wb386WCB1p", 725, next: "tdgkF9zTjUxqLISP chfmaryvuANG.", left: "ioe", right: "l
+sn,wb386WCB1p")
+("t", 113, next: "dgkF9zTjUxqLISP", left: "NULL", right: "NULL")
+("d", 55, next: "gkF9zTjUxqLISP", left: "NULL", right: "NULL")
+("g", 30, next: "kF9zTjUxqLISP", left: "NULL", right: "NULL")
+("k", 7, next: "F9zT", left: "NULL", right: "NULL")
+("F", 1, next: "9", left: "NULL", right: "NULL")
+("9", 1, next: "8", left: "NULL", right: "NULL")
+("F9", 2, next: "z", left: "F", right: "9")
+("z", 2, next: "x", left: "NULL", right: "NULL")
+("F9z", 4, next: "T", left: "F9", right: "z")
+("T", 4, next: "A", left: "NULL", right: "NULL")
+("F9zT", 8, next: "jUxq", left: "F9z", right: "T")
+("kF9zT", 15, next: "jUxqLISP", left: "k", right: "F9zT")
+("j", 2, next: "U", left: "NULL", right: "NULL")
+("U", 2, next: "S", left: "NULL", right: "NULL")
+("jU", 4, next: "xq", left: "j", right: "U")
+("x", 2, next: "q", left: "NULL", right: "NULL")
+("q", 2, next: "j", left: "NULL", right: "NULL")
+("xq", 4, next: "F9z", left: "x", right: "q")
+("jUxq", 8, next: "LISP", left: "jU", right: "xq")
+("L", 2, next: "I", left: "NULL", right: "NULL")
+("I", 2, next: "B", left: "NULL", right: "NULL")
+("LI", 4, next: "SP", left: "L", right: "I")
+("S", 2, next: "P", left: "NULL", right: "NULL")
+("P", 2, next: "L", left: "NULL", right: "NULL")
+("SP", 4, next: "jU", left: "S", right: "P")
+("LISP", 8, next: "ANG", left: "LI", right: "SP")
+("jUxqLISP", 16, next: "y", left: "jUxq", right: "LISP")
+("kF9zTjUxqLISP", 31, next: "f", left: "kF9zT", right: "jUxqLISP")
+("gkF9zTjUxqLISP", 61, next: "h", left: "g", right: "kF9zTjUxqLISP")
+("dgkF9zTjUxqLISP", 116, next: "c", left: "d", right: "gkF9zTjUxqLISP")
+("tdgkF9zTjUxqLISP", 229, next: " ", left: "t", right: "dgkF9zTjUxqLISP")
+(" ", 229, next: "chfm", left: "NULL", right: "NULL")
+("tdgkF9zTjUxqLISP ", 458, next: "chfmaryvuANG.", left: "tdgkF9zTjUxqLISP", right: " ")
+("c", 120, next: "hfm", left: "NULL", right: "NULL")
+("h", 62, next: "fm", left: "NULL", right: "NULL")
+("f", 31, next: "m", left: "NULL", right: "NULL")
+("m", 34, next: "yv", left: "NULL", right: "NULL")
+("fm", 65, next: "r", left: "f", right: "m")
+("hfm", 127, next: "a", left: "h", right: "fm")
+("chfm", 247, next: "aryvuANG.", left: "c", right: "hfm")
+("a", 136, next: "ryvuANG.", left: "NULL", right: "NULL")
+("r", 77, next: "yvuANG.", left: "NULL", right: "NULL")
+("y", 18, next: "v", left: "NULL", right: "NULL")
+("v", 19, next: "u", left: "NULL", right: "NULL")
+("yv", 37, next: "uANG.", left: "y", right: "v")
+("u", 20, next: "ANG.", left: "NULL", right: "NULL")
+("A", 4, next: "NG", left: "NULL", right: "NULL")
+("N", 3, next: "G", left: "NULL", right: "NULL")
+("G", 3, next: "C", left: "NULL", right: "NULL")
+("NG", 6, next: "386W", left: "N", right: "G")
+("ANG", 10, next: ".", left: "A", right: "NG")
+(".", 12, next: "386WCB1", left: "NULL", right: "NULL")
+("ANG.", 22, next: ",", left: "ANG", right: ".")
+("uANG.", 42, next: "l", left: "u", right: "ANG.")
+("yvuANG.", 79, next: "i", left: "yv", right: "uANG.")
+("ryvuANG.", 156, next: "io", left: "r", right: "yvuANG.")
+("aryvuANG.", 292, next: "ioe", left: "a", right: "ryvuANG.")
+("chfmaryvuANG.", 539, next: "ioel
+sn,wb386WCB1p", left: "chfm", right: "aryvuANG.")
+("tdgkF9zTjUxqLISP chfmaryvuANG.", 997, next: "ioel
+sn,wb386WCB1ptdgkF9zTjUxqLISP chfmaryvuANG.", left: "tdgkF9zTjUxqLISP ", right: "chfmaryvuANG.")
+("ioel
+sn,wb386WCB1ptdgkF9zTjUxqLISP chfmaryvuANG.", 1722, next: "NULL", left: "ioel
+sn,wb386WCB1p", right: "tdgkF9zTjUxqLISP chfmaryvuANG.")
